@@ -9,5 +9,3 @@
 
 <div id="header" align="center"> I love yoga, programming, and eating out! 
 
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chloe1cooper7952&theme=dark&background=000000)](https://git.io/streak-stats)
