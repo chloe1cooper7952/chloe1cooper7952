@@ -1,16 +1,13 @@
-### Hi there 👋
+<div id="header" align="center"> Hi there 👋
+</div>
 
-<!--
-**chloe1cooper7952/chloe1cooper7952** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div id="header" align="center">
+  <img src="https://media1.giphy.com/media/Y3wnbT1OLWur4th15c/200w.webp?cid=ecf05e47lemdjwbcexaidzdzli7nsoa1rwge9o0c27sv4u32&rid=200w.webp&ct=s" width="100"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<div id="header" align="center"> I love yoga, programming, and eating out! 
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=chloe1cooper7952&theme=dark&background=000000)](https://git.io/streak-stats)
